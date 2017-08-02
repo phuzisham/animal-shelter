@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: #bbb2a3;
+  color: #545d32;
+}
+
+h1 {
+  font-size: 4vw;
+}
+
+.columns {
+  width: 20%;
+  display: inline-block;
+  float: top;
+  padding: 10px;
+}
+
+.adoptions img {
+  width: 90%;
+  padding: 10px;
+  border-radius: 20px;
+}
