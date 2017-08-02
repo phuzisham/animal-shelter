@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background-color: #bbb2a3;
+  color: #545d32;
+}
+
+h1 {
+  font-size: 4vw;
+}
+
+img {
+  width: 40%;
+}
+
+.columns {
+  width: 40%;
+  float: right;
+}
+
+.columns p {
+  font-size: 2.7vw;
+  text-align: left;
+  padding: 10px;
+  margin-left: -70px;
+  margin-top: -5px;
+}
+
+h2 {
+  padding: 40px;
+}
+
+h2 a {
+  color: #545d32;
+}
